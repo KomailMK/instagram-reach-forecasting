@@ -14,7 +14,8 @@ instagram-reach-forecasting/
 ├── LICENSE # License file (optional)   
 └── README.md # README file with instructions   
 
-
+## Usage   
+You can choose between the Python script (`forecast_reach.py`) and the Jupyter notebook (`forecast_reach.ipynb`), both containing identical code for running the forecasting analysis.The Jupyter notebook (`forecast_reach.ipynb`) offers a step-by-step approach with detailed explanations and visualizations, making it suitable for users who prefer an interactive and exploratory workflow.
 
 ## Setup Instructions
 
