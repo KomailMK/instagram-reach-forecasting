@@ -1,6 +1,6 @@
 # Instagram Reach Forecasting
 
-This repository contains code for forecasting Instagram reach using historical data and a SARIMA model. The project includes both a Python script and a Jupyter notebook for analysis and model training.
+This repository contains code for forecasting Instagram reach using historical data and a SARIMA model. The project includes both a Python script for analysis and model training.
 
 ## Repository Structure
 instagram-reach-forecasting/   
